@@ -23,9 +23,3 @@
 22. [Переезд на собственную инфраструктуру Python](https://github.com/qa-guru/knowledge-base/wiki/21.-Переезд-на-собственную-инфраструктуру-Python) 
 
 ---
-
-<h4 align="center">
-<a href="https://qa.guru/">Сайт</a> |
-<a href="https://t.me/qa_automation">Чат QA — Automation</a> |
-<a href="https://t.me/qa_guru_chat">Чат QA.GURU</a>
-</h4>
