@@ -2,7 +2,7 @@
 1. [Вводное занятие. Сразу к практике!](https://github.com/qa-guru/knowledge-base/wiki/1.-Вводное-занятие.-Сразу-к-практике!)
 2. [Погружаемся в инструментарий и библиотеки](https://github.com/qa-guru/knowledge-base/wiki/2.-Погружаемся-в-инструментарий-и-библиотеки)    
 3. [Git. GitHub. Погружаемся.](https://github.com/qa-guru/knowledge-base/wiki/2.-Git.-GitHub.-Погружаемся)
-3.1. [Git. Merging vs. rebasing](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing).    
+3.1. [Git. Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).    
 5. [Основы Python](https://github.com/qa-guru/knowledge-base/wiki/4.-Основы-Python)    
 6. [Selene #1](https://github.com/qa-guru/knowledge-base/wiki/5.-Selene-%231)    
 7. [Основы Python. Часть II](https://github.com/qa-guru/knowledge-base/wiki/6.-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Python.-%D0%A7%D0%B0%D1%81%D1%82%D1%8C-II)    
