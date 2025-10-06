@@ -3,7 +3,7 @@
 2. [Погружаемся в инструментарий и библиотеки](https://github.com/qa-guru/knowledge-base/wiki/2.-Погружаемся-в-инструментарий-и-библиотеки)    
 3. [Git. GitHub. Погружаемся.](https://github.com/qa-guru/knowledge-base/wiki/2.-Git.-GitHub.-Погружаемся)
 3.1. [Git. Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).    
-3.2 [[Git тренажор]](https://learngitbranching.js.org/?locale=ru_RU).
+3.2 [[Git тренажер]](https://learngitbranching.js.org/?locale=ru_RU).
 4. [Основы Python](https://github.com/qa-guru/knowledge-base/wiki/4.-Основы-Python)    
 5. [Selene #1](https://github.com/qa-guru/knowledge-base/wiki/5.-Selene-%231)    
 6. [Основы Python. Часть II](https://github.com/qa-guru/knowledge-base/wiki/6.-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Python.-%D0%A7%D0%B0%D1%81%D1%82%D1%8C-II)    
